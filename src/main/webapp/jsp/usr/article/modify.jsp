@@ -61,5 +61,6 @@
             </div>
         </form>
     </div>
+</section>
 
     <%@ include file="../common/foot.jspf"%>
